@@ -5,7 +5,6 @@
 title-text: ""
 desktop-image: "chiikawa_wallpaper.png"
 desktop-color: "#ffffff"
-terminal-box: ""
 terminal-font: "ok_mallang_24 20"
 
 # Countdown label (top-left)
@@ -42,7 +41,7 @@ terminal-font: "ok_mallang_24 20"
   icon_width = 46
   icon_height = 46
   item_icon_space = 18
-  item_height = 42
+  item_height = 48
   item_padding = 4
   item_spacing = 10
   selected_item_pixmap_style = "select_*.png"
