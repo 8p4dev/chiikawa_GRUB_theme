@@ -5,7 +5,7 @@
 title-text: ""
 desktop-image: "chiikawa_wallpaper.jpg"
 desktop-color: "#ffffff"
-terminal-font: "ok_mallang_24 20"
+terminal-font: "ok_mallang_24 24"
 
 # Countdown label (top-left)
 + label {
@@ -15,7 +15,7 @@ terminal-font: "ok_mallang_24 20"
   id = "__timeout__"
   text = "Selected OS will start in %d seconds"
   color = "#000000"
-  font = "ok_mallang_24 26"
+  font = "ok_mallang_24 24"
 }
 
 # Title
@@ -25,7 +25,7 @@ terminal-font: "ok_mallang_24 20"
   align = "left"
   text = "Choose your OS!"
   color = "#000000"
-  font = "ok_mallang_40 40"
+  font = "ok_mallang_24 24"
 }
 
 # Boot menu
@@ -34,8 +34,8 @@ terminal-font: "ok_mallang_24 20"
   top = 52%
   width = 48%
   height = 38%
-  item_font = "ok_mallang_24 38"
-  selected_item_font = "ok_mallang_24 38"
+  item_font = "ok_mallang_24 24"
+  selected_item_font = "ok_mallang_24 24"
   item_color = "#000000"
   selected_item_color = "#000000"
   icon_width = 32
