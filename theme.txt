@@ -3,7 +3,7 @@
 
 # Global
 title-text: ""
-desktop-image: "chiikawa_wallpaper.png"
+desktop-image: "chiikawa_wallpaper.jpg"
 desktop-color: "#ffffff"
 terminal-font: "ok_mallang_24 20"
 
