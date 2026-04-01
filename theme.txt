@@ -44,7 +44,7 @@ terminal-font: "ok_mallang_24 20"
   item_height = 48
   item_padding = 4
   item_spacing = 10
-  selected_item_pixmap_style = "select_*.png"
+  selected_item_pixmap_style = "select_bkg_*.png"
   menu_pixmap_style = ""
   scrollbar = false
 }
