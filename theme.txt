@@ -1,0 +1,51 @@
+# Chiikawa-inspired GRUB theme
+# Auto-generated from plan.md requirements
+
+# Global
+title-text: ""
+desktop-image: "chiikawa_wallpaper.png"
+desktop-color: "#ffffff"
+terminal-box: ""
+terminal-font: "ok_mallang_24 20"
+
+# Countdown label (top-left)
++ label {
+  left = 23%
+  top = 18%
+  align = "left"
+  id = "__timeout__"
+  text = "Selected OS will start in %d seconds"
+  color = "#000000"
+  font = "ok_mallang_24 26"
+}
+
+# Title
++ label {
+  left = 22%
+  top = 31%
+  align = "left"
+  text = "Choose your OS!"
+  color = "#000000"
+  font = "ok_mallang_24 64"
+}
+
+# Boot menu
++ boot_menu {
+  left = 20%
+  top = 52%
+  width = 48%
+  height = 38%
+  item_font = "ok_mallang_24 38"
+  selected_item_font = "ok_mallang_24 38"
+  item_color = "#000000"
+  selected_item_color = "#000000"
+  icon_width = 46
+  icon_height = 46
+  item_icon_space = 18
+  item_height = 42
+  item_padding = 4
+  item_spacing = 10
+  selected_item_pixmap_style = "select_*.png"
+  menu_pixmap_style = ""
+  scrollbar = false
+}
