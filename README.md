@@ -1,6 +1,7 @@
 # Chiikawa GRUB Theme
 
 Cute Chiikawa-themed GRUB skin. Assets are minimized so it runs smoothly even in VMs like VirtualBox.
+<img src="readme_img.png">
 
 ## Files
 - `theme.txt`: theme definition (background, font, menu, selection highlight)
