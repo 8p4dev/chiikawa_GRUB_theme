@@ -9,7 +9,7 @@ terminal-font: "ok_mallang_24 20"
 
 # Countdown label (top-left)
 + label {
-  left = 23%
+  left = 22%
   top = 18%
   align = "left"
   id = "__timeout__"
@@ -25,7 +25,7 @@ terminal-font: "ok_mallang_24 20"
   align = "left"
   text = "Choose your OS!"
   color = "#000000"
-  font = "ok_mallang_24 64"
+  font = "ok_mallang_40 40"
 }
 
 # Boot menu
@@ -38,9 +38,9 @@ terminal-font: "ok_mallang_24 20"
   selected_item_font = "ok_mallang_24 38"
   item_color = "#000000"
   selected_item_color = "#000000"
-  icon_width = 46
-  icon_height = 46
-  item_icon_space = 18
+  icon_width = 32
+  icon_height = 32
+  item_icon_space = 12
   item_height = 48
   item_padding = 4
   item_spacing = 10
